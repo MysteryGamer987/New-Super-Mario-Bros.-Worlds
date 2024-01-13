@@ -3,4 +3,4 @@
 - Worlds 1-8 + Mushroom, Flower, Star, Crown
 - All New Levels And A New Theme
 - New Game Mechanics
-- THIS DEMO ONLY INCLUDES THE 1ST WORLD
+- THIS DEMO ONLY INCLUDES PART OF WORLD 1
